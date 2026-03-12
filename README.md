@@ -1,16 +1,62 @@
-# flutterproject
+# Smart Wallet
 
-A new Flutter project.
+# Smart Wallet 💼📱
 
-## Getting Started
+**Smart Wallet** is a privacy-first personal finance tool that helps you track your salary, bills, and debts — all stored locally in your browser's cache. No sign‑ups, no cloud sync, no tracking. Your money data stays on your device, always under your control.
 
-This project is a starting point for a Flutter application.
+![Smart Wallet Screenshot](![image1](https://github.com/user-attachments/assets/81675250-91ab-40b5-b149-c7c5a24c370b)
+)  
+*Two‑screen interface: bills & debts overview (left) and current balance with insights (right).*
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Salary & Income Tracking** – Record your salary and other income sources.
+- **Bills & Debts Management** – Keep an eye on what you owe and your recurring bills.
+- **Local Storage Only** – All data is saved in your browser’s `localStorage` (or cache). Works offline.
+- **Clear Financial Overview**  
+  - Current balance, available funds, and category breakdowns.  
+  - “You are on track” indicator for a quick health check.
+- **Export to Excel** – One‑click export of your bills and debts.
+- **Privacy by Design** – No data leaves your phone. No accounts, no servers.
+
+---
+
+## 📸 Screenshots
+
+| Bills & Debts Screen | Balance Overview Screen |
+|----------------------|-------------------------|
+| ![Bills & Debts](![image1](https://github.com/user-attachments/assets/b46a317c-9569-4629-bfd4-26ccfd8919a8)
+) | ![Balance](![image2](https://github.com/user-attachments/assets/29ee024e-a574-410c-9510-61711fead28a)
+) |
+
+*(Replace the image names with actual screenshots from your device.)*
+
+---
+
+## 🚀 How It Works
+
+1. Open the app in any modern browser.
+2. Add your salary (income) and expenses (e.g., bills).
+3. The app calculates your available balance (`salary – bills – debts`).
+4. Everything is saved **locally** – close the tab and come back later, your data remains.
+
+**No internet? No problem.** Because the app uses your browser’s local storage, you can view and manage your finances offline.
+
+---
+
+## 🧰 Built With
+
+- dart 🎯
+- flutter 📱
+- provider (state management)
+- shared_preferences (storage)
+
+---
+
+## 📦 Getting Started
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/smart-wallet.git
