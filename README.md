@@ -57,4 +57,4 @@
 
 1. Clone this repository:
    ```bash
-   [git clone https://github.com/yourusername/smart-wallet.git](https://github.com/Ahmed-Ewaida/Smart-Wallet-app.git)
+  https://github.com/Ahmed-Ewaida/Smart-Wallet-app.git
