@@ -4,7 +4,7 @@
 
 **Smart Wallet** is a privacy-first personal finance tool that helps you track your salary, bills, and debts — all stored locally in your browser's cache. No sign‑ups, no cloud sync, no tracking. Your money data stays on your device, always under your control.
 
-![Smart Wallet Screenshot](![image1](https://github.com/user-attachments/assets/81675250-91ab-40b5-b149-c7c5a24c370b)
+![image1](https://github.com/user-attachments/assets/81675250-91ab-40b5-b149-c7c5a24c370b)
 )  
 *Two‑screen interface: bills & debts overview (left) and current balance with insights (right).*
 
@@ -27,9 +27,9 @@
 
 | Bills & Debts Screen | Balance Overview Screen |
 |----------------------|-------------------------|
-| ![Bills & Debts](![image1](https://github.com/user-attachments/assets/b46a317c-9569-4629-bfd4-26ccfd8919a8)
-) | ![Balance](![image2](https://github.com/user-attachments/assets/29ee024e-a574-410c-9510-61711fead28a)
-) |
+| ![image1](https://github.com/user-attachments/assets/b46a317c-9569-4629-bfd4-26ccfd8919a8)
+|![image2](https://github.com/user-attachments/assets/29ee024e-a574-410c-9510-61711fead28a)
+ |
 
 *(Replace the image names with actual screenshots from your device.)*
 
