@@ -1,5 +1,3 @@
-# Smart Wallet
-
 # Smart Wallet 💼📱
 
 **Smart Wallet** is a privacy-first personal finance tool that helps you track your salary, bills, and debts — all stored locally in your browser's cache. No sign‑ups, no cloud sync, no tracking. Your money data stays on your device, always under your control.
